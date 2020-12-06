@@ -1,0 +1,34 @@
+  
+---
+layout: essay
+type: essay
+title: Assignment 3 Checkpoint
+date: 2020-12-01
+labels:
+  - Management and Information Systems
+  - University of Hawai'i at Mānoa
+  - Shidler
+
+---
+
+<p>
+Checkpoint 1:
+After the user has selected the amount of items that they would like to purchase, a button will redirect them to the shopping cart. The shopping cart will load in a new page where the user will be able to interact with the products by changing the quantities they wish to purchase or applying a discount code.
+ 
+Checkpoint 2:
+I’m waiting to finish Lab 15 to implement sessions. I’m not very familiar with sessions yet.
+ 
+Checkpoint 3:
+If a user has not logged in or registered they will be prompted to do so when attempting to access the shopping cart and the invoice. Similar to Assignment 2, a login and registration page will be loaded if the user attempts to access any of these features. I will also implement cookies in order to retrieve data for each user’s login. 
+ 
+Checkpoint 4:
+After a successful login, the user will be able to view/edit their cart, their invoice, and submit their purchase. I would like to develop a welcome message for the user. I am also hoping to be able to create a feature where the user will be able to sign up for a mailing list and receive a discount code after doing so. I use this feature frequently when online shopping and believe that implementing it into my Assignment 3 would be a good learning experience and chance for extra credit.
+ 
+Checkpoint 5:
+I am not working with a partner.
+ 
+Checkpoint 6:
+I am approaching Assignment 3 with much more knowledge and understanding of completing the assignment. I also have a better strategy and game plan. I am so grateful that we  have more time to complete this assignment as well. I felt rushed when completing the previous assignments, and although I know this assignment will also pose some challenges, I am sure that I will not feel as stressed or overwhelmed. This longer time period will give me more time to experiment with and perfect my code. 
+</p>
+
+---
