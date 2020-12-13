@@ -8,7 +8,8 @@ labels:
   - Management and Information Systems
   - University of Hawai'i at Mānoa
   - Shidler
-
+  - Introduction
+  - Student
 ---
 # Introduction
 
