@@ -2,11 +2,11 @@
    "basics":{
       "name":"Natalie",
       "label":"Student",
-      "picture":"https://github.com/natalieamalia/natalieamalia.github.io/blob/master/images/profile.png",
+      "picture":"https://github.com/natalieamalia/natalieamalia.github.io/blob/master/images/profile.png?raw=true",
       "email":"na23@hawaii.edu",
       "phone":"808-517-0134",
       "website":"https://natalieamalia.github.io",
-      "summary":"I am an MIS and Finance student attending the Shidler College of Business at UH Mānoa. In my free time I enjoy going to the beach with my dogs, surfing, spedning time with friends and family and experiencing new things. When I don't feel like doing any of this I like to listen to good music, study, and cook. I'm really excited to be a part of ITM 352 this semester and improve my programming skills!",
+      "summary":"I am an MIS and Finance student attending the Shidler College of Business at UH Mānoa. I spend most of my time studying for school, working, and surfing. I'm looking forward to being a part of ITM 352 this semester and improving my programming skills!",
       "location":{
          "address":"2500 Campus Rd, Honolulu",
          "postalCode":"96822",
@@ -22,10 +22,10 @@
          }
       ],
       "work":[
-         {
-            "company":"Hawai'i Pelvic Therapy",
-            "position":"Administrative Assistant",
-            "startDate":"2020-06-15",
+                  {
+            "company":"Anasia Sports Bar",
+            "position":"Cocktail Waitress",
+            "startDate":"2019-01-01",
             "endDate":"Present"
          },
          {
@@ -35,11 +35,12 @@
             "endDate":"Present"
          },
          {
-            "company":"Anasia Sports Bar",
-            "position":"Cocktail Waitress",
-            "startDate":"2019-01-01",
+            "company":"Hawai'i Pelvic Therapy",
+            "position":"Administrative Assistant",
+            "startDate":"2020-06-15",
             "endDate":"Present"
          }
+      
       ],
       "education":[
          {
@@ -55,23 +56,22 @@
       ],
       "skills":[
          {
-            "name":"Languages and Frameworks",
-            "level":"",
+            "name":"Programming",
+            "level":"Beginner",
             "keywords":[
                "Java",
                "Javascript",
-               "Meteor"
+               "Git/GitHub",
+               "HTML"
             ]
          },
          {
-            "name":"Toolsets/OS",
-            "level":"",
+            "name":"Native Spanish Speaker",
+            "level":"Advanced",
             "keywords":[
-               "MacOS",
-               "Unix",
-               "Git/GitHub",
-               "g++",
-               "Emacs"
+               "Spanish",
+               "Puerto Rico",
+               "Cuba"
             ]
          }
       ],
@@ -83,6 +83,10 @@
          {
             "name":"Spanish",
             "level":"Native speaker"
+         },
+          {
+            "name":"Javascript",
+            "level":"Beginner"
          }
       ],
       "interests":[
@@ -93,19 +97,7 @@
             ]
          },
          {
-            "name":"Marketing",
-            "keywords":[
-               
-            ]
-         },
-         {
             "name":"Finance",
-            "keywords":[
-               
-            ]
-         },
-         {
-            "name":"Sustainability",
             "keywords":[
                
             ]
@@ -125,7 +117,7 @@
       ],
       "references":[
          {
-            "name":"Available upon request",
+            "name":"Available upon request :)",
             "referece":""
          }
       ]
