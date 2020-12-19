@@ -1,126 +1,95 @@
 {
-   "basics":{
-      "name":"Natalie",
-      "label":"Student",
-      "picture":"https://github.com/natalieamalia/natalieamalia.github.io/blob/master/images/profile.png?raw=true",
-      "email":"na23@hawaii.edu",
-      "phone":"808-517-0134",
-      "website":"https://natalieamalia.github.io",
-      "summary":"I am an MIS and Finance student attending the Shidler College of Business at UH Mānoa. I spend most of my time studying for school, working, and surfing. I'm looking forward to being a part of ITM 352 this semester and improving my programming skills!",
-      "location":{
-         "address":"2500 Campus Rd, Honolulu",
-         "postalCode":"96822",
-         "city":"Honolulu",
-         "countryCode":"USA",
-         "region":"Hawaii"
-      },
-      "profiles":[
-         {
-            "network":"github",
-            "username":"natalieamalia",
-            "url":"http://github.com/natalieamalia"
-         }
-      ],
-      "education":[
-         {
-            "institution":"University of Hawai'i at Mānoa, Honolulu, HI",
-            "area":"Management and Information Systems and Finance",
-            "studyType":"Baccalaureate",
-            "endDate":"Present",
-            "gpa":"",
-            "courses":[
-               
-            ]
-         }
-      ],
-      "skills":[
-         {
-            "name":"Programming",
-            "level":"Beginner",
-            "keywords":[
-               "Java",
-               "Javascript",
-               "Git/GitHub",
-               "HTML"
-            ]
-         },
-         {
-            "name":"Native Spanish Speaker",
-            "level":"Advanced",
-            "keywords":[
-               "Spanish",
-               "Puerto Rico",
-               "Cuba"
-            ]
-         }
-      ],
-      "languages":[
-         {
-            "name":"English",
-            "level":"Native speaker"
-         },
-         {
-            "name":"Spanish",
-            "level":"Native speaker"
-         },
-          {
-            "name":"Javascript",
-            "level":"Beginner"
-         }
-      ],
-      "interests":[
-         {
-            "name":"Management and Information Systems",
-            "keywords":[
-               
-            ]
-         },
-         {
-            "name":"Finance",
-            "keywords":[
-               
-            ]
-         },
-         {
-            "name":"Ocean",
-            "keywords":[
-               
-            ]
-         },
-         {
-            "name":"Surfing",
-            "keywords":[
-               
-            ]
-         }
-      ],
-            "work":[
-                  {
-            "company":"Anasia Sports Bar",
-            "position":"Cocktail Waitress",
-            "startDate":"2019-01-01",
-            "endDate":"Present"
-         },
-         {
-            "company":"Over Easy",
-            "position":"Server",
-            "startDate":"2019-03-01",
-            "endDate":"Present"
-         },
-         {
-            "company":"Hawai'i Pelvic Therapy",
-            "position":"Administrative Assistant",
-            "startDate":"2020-06-15",
-            "endDate":"Present"
-         }
-      
-      ],
-      "references":[
-         {
-            "name":"Available upon request :)",
-            "referece":""
-         }
+  "basics": {
+    "name": "Natalie Amalia Weber",
+    "label": "MIS Shidler Undergraduate",
+    "picture": "https://github.com/natalieamalia/natalieamalia.github.io/blob/master/images/profile.png?raw=true",
+    "email": "na23@hawaii.edu",
+    "phone": "",
+    "website": "https://natalieamalia.github.io",
+    "summary": "I am an MIS and Finance student attending the Shidler College of Business at UH Mānoa. I spend most of my time studying for school, working, and surfing. I'm looking forward to being a part of ITM 352 this semester and improving my programming skills!",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "natalieamalia",
+        "url": "https://github.com/natalieamalia"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Management Information Systems",
+      "keywords": [
       ]
-   }
-           
-  
+    },
+    {
+      "name": "Marketing",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Surfing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2022)",
+      "studyType": "B.B.A",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Word",
+        "Excel",
+        "Powerpoint"
+      ]
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": [
+        "Microsoft",
+        "Excel",
+        "Database"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Over Easy LLC.",
+      "position": "Server",
+      "website": "https://www.easyquehi.com/",
+      "startDate": "2019-04-15",
+      "endDate": "Present",
+      "summary": "",
+    }
+   ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
