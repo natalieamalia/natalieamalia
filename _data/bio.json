@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Natalie Amalia Weber",
-    "label": "MIS Shidler Undergraduate",
+    "label": "Shidler Undergraduate",
     "picture": "https://github.com/natalieamalia/natalieamalia.github.io/blob/master/images/profile.png?raw=true",
     "email": "na23@hawaii.edu",
-    "phone": "",
+    "phone": "808-517-0134",
     "website": "https://natalieamalia.github.io",
-    "summary": "I am an MIS and Finance student attending the Shidler College of Business at UH Mānoa. I spend most of my time studying for school, working, and surfing. I'm looking forward to being a part of ITM 352 this semester and improving my programming skills!",
+    "summary": "I am studying for a B.B.A. in Management Information Systems at UH Mānoa's Shidler College of Business. I expect to graduate Spring 2022. I am looking forward to working with all of you in ITM 352 this semester!",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "Marketing",
+      "name": "Excel",
       "keywords": [
       ]
     },
@@ -44,35 +44,31 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2022)",
-      "studyType": "B.B.A",
-      "startDate": "2018-08-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
   "skills": [
+    {
+      "name": "Bilingual",
+      "level": "Native Speaker",
+      "keywords": [
+        "Spanish"
+      ]
+    },
     {
       "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "Word",
-        "Excel",
-        "Powerpoint"
+        "Excel, Word, Access Databases"
       ]
-    },
+    }
+  ],
+   "education": [
     {
-      "name": "Microsoft Excel",
-      "level": "",
-      "keywords": [
-        "Microsoft",
-        "Excel",
-        "Database"
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected graduation Spring, 2022)",
+      "studyType": "B.B.A",
+      "startDate": "2018-08-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [ BUS 312, BUS 315, ITM 352, ITM 431
       ]
     }
   ],
