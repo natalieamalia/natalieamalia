@@ -1,89 +1,93 @@
 {
-  "basics": {
-    "name": "Natalie Amalia Weber",
-    "label": "Shidler Undergraduate",
-    "picture": "https://github.com/natalieamalia/natalieamalia.github.io/blob/master/MISProfile.jpg",
-    "email":"na23@hawaii.edu",
-    "phone": "808-517-0134",
-    "website": "https://natalieamalia.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems at UH Mānoa's Shidler College of Business. I expect to graduate Spring 2022. I am looking forward to working with all of you in ITM 352 this semester!",
-    "location": {
-      "address": "University of Hawai'i at Mānoa",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Natalie Amalia Weber",
+      "label":"Shidler Undergraduate",
+      "picture":"https://github.com/natalieamalia/natalieamalia.github.io/blob/master/MISProfile.jpg",
+      "email":"na23@hawaii.edu",
+      "phone":"808-517-0134",
+      "website":"https://natalieamalia.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems at UH Mānoa's Shidler College of Business. I expect to graduate Spring 2022. I am looking forward to working with all of you in ITM 352 this semester!",
+      "location":{
+         "address":"University of Hawai'i at Mānoa",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"natalieamalia",
+            "url":"https://github.com/natalieamalia"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "natalieamalia",
-        "url": "https://github.com/natalieamalia"
+         "name":"Management Information Systems",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Excel",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Surfing",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Travel",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Management Information Systems",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Excel",
-      "keywords": [
-      ]
-    },
-     {
-      "name": "Surfing",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Travel",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Bilingual",
-      "level": "Native Speaker",
-      "keywords": [
-        "Spanish"
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Excel, Word, Access Databases"
-      ]
-    }
-  ],
-   "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected graduation Spring, 2022)",
-      "studyType": "B.B.A",
-      "startDate": "2018-08-01",
-      "endDate": "Present",
-      "gpa": "",
-    }
-  ],
-  "work": [
-    {
-      "company": "Over Easy LLC.",
-      "position": "Server",
-      "website": "https://www.easyquehi.com/",
-      "startDate": "2019-04-15",
-      "endDate": "Present",
-      "summary": "",
-    }
    ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   "skills":[
+      {
+         "name":"Bilingual",
+         "level":"Native Speaker",
+         "keywords":[
+            "Spanish"
+         ]
+      },
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Excel, Word, Access Databases"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected graduation Spring, 2022)",
+         "studyType":"B.B.A",
+         "startDate":"2018-08-01",
+         "endDate":"Present",
+         "gpa":""
+      }
+   ],
+   "work":[
+      {
+         "company":"Over Easy LLC.",
+         "position":"Server",
+         "website":"https://www.easyquehi.com/",
+         "startDate":"2019-04-15",
+         "endDate":"Present",
+         "summary":""
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
