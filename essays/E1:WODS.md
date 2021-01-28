@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: MIS Intro
+title: WODS
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
 labels:
