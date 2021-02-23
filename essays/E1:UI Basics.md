@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: WODS
+title: UI Basics Essay
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
 labels:
