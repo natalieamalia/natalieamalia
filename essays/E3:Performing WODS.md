@@ -6,7 +6,7 @@ title: WODS
 date: 2021-02-23
 labels:
   - Management and Information Systems
-  - WODS
+  - E3: Performing WODS
   - Student
 ---
 # E3: Performing WODS Technical Essay
