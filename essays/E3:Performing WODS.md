@@ -20,7 +20,7 @@ I began the WOD by reading all of the instructions on our class site. At first t
 Preparation:
 <br>
 To prepare for the WOD I opened VS code and followed the instructions. I read and reread the instructions thoroughly and tried to do my best on my own.</br>
-<ul>Improvement:
+Improvement:
 <br>
 I could have improved my preparation by researching tables and generating table rows in HTML. This would have helped me understand and complete the WOD faster.</br>
 </p>
