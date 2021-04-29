@@ -10,7 +10,6 @@ labels:
   - Programming
   - Student
 ---
-<li>
 1. Provide a brief introduction to the assignment along with a link to this page for further details:
 <br>
 2. What did you learn from this assignment?
@@ -26,4 +25,3 @@ labels:
 7. Describe what worked well with this project? What did not work well?
 <br>
 8. If you could go back in time and do things differently, what would you do differently?
-</li>
