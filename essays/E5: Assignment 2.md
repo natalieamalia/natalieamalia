@@ -10,6 +10,7 @@ labels:
   - Programming
   - Student
 ---
+<br>
 1. Provide a brief introduction to the assignment along with a link to this page for further details:
 <br>
 <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">Assignment 2</a> additional requirements and improvements to Assignment 1. Assignment 2 required the creation of a login and registration page for users, allowing multiple users to register and log in. It was required that user data was persistent, allowing the information entered in the registration form to be saved and used when verifying a user's login. Users were than redirected to an invoice page after passing the login or registration verification. Users should not have access to the application without a validated login. The application should also include personalized features for the user upon successful login.
