@@ -1,13 +1,10 @@
 ---
 layout: essay
 type: essay
-title: E3: Performing WODS
+title: Performing WODS Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-23
 labels:
-  - Management and Information Systems
-  - WODS
-  - Student
 ---
 # E3: Performing WODS Technical Essay
 <p>
