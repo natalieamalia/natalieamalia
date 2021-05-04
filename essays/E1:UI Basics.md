@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basics Essay
+title: E1: UI Basics Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
 labels:
   - Management and Information Systems
-  - WODS
+  - Introduction
   - Student
 ---
 # E1: UI Basics Technical Essay
