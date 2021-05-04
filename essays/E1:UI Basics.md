@@ -1,13 +1,10 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basics Technical Essay
+title: U1 Basics Technical Essay
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-28
+date: 2020-01-28
 labels:
-  - Management and Information Systems
-  - Introduction
-  - Student
 ---
 # E1: UI Basics Technical Essay
 <p>I was very overwhelmed after reading the instructions for BrowserHistory1. After the first few steps I began to have issues and my browser was not rendering the results I expected. I was confused as to how to approach the following steps, so I referred to the screencast solution. I listened to the screencast for direction and completed the WOD. I began recording the second attempt and felt more comfortable. It took me twenty minutes to complete.</p>
