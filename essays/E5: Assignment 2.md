@@ -1,14 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E5: Reflecting on Assignment 2
+title:  E5: Reflecting on Assignment 2
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-28
 labels:
-  - Management and Information Systems
-  - Assignment 2
-  - Programming
-  - Student
+- Management and Information Systems
+- Assignment 2
 ---
 <br>
 1. Provide a brief introduction to the assignment along with a link to this page for further details:
