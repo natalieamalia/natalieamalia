@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Assignment 2 Technical Essay
+title: Reflecting on Assignment 2
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
 labels:
