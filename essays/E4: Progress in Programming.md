@@ -1,14 +1,12 @@
 ---
 layout: essay
 type: essay
-title: E4: Progress in Programming
+title: Progress in Programming
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-06
 labels:
-  - Management and Information Systems
-  - Programming
-  - Student
 ---
+# E4: Progress in Programming
 1. My programming skills have greatly improved in the following ways:
 I have developed a greater understanding of programming languages, programming applications, and functions. When I began this class last semester I only possessed a very basic and entry level understanding of HTML and CSS. I did not understand server and client side processing, dynamic web pages, consoles, stylesheets, and the different programming languages that I have learned as a result of ITM 352. 
 Since last semester, I have been working on paying close attention to every line of code and understanding the purpose of each attribute. I have worked on commenting more to help me do so. Last semester, I was not proficient in understanding and implementing different features in my assignments. My assignments were unsuccessful as a result. I think I have progressed much more this semester and my approach to programming has improved. I have had a much better experience with programming this far and I’m excited to continue this semester. 
