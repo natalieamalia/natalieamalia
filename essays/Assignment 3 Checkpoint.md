@@ -6,4 +6,4 @@ title: Assingment 3 Checkpoint
 date: 2021-05-07
 labels:
 ---
-<a href= https://youtu.be/Lkm4s7NLQbM>Screencast</a>
+https://youtu.be/Lkm4s7NLQbM
