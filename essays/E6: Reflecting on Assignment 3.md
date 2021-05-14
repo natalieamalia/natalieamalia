@@ -6,6 +6,7 @@ title: Technical Essay
 date: 2020-05-14
 labels:
 ---
+# E5: Reflecting on Assignment 3
 Briefly describe your system (e.g. A store selling Pokemon game cards)
 
 Any notable shortcomings, bugs, problems, or additional features not implemented?
